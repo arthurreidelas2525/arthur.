@@ -8,7 +8,7 @@ body{
 }
 
 header{
-    background-color: #00FFFF;
+    background-color: #101111;
     padding: 40px;
     display: flex;
     align-items: center;
@@ -17,9 +17,9 @@ header{
 }
 
 #imagem-principal {
-    width: 10%;
-    height: 50%;
-    margin-left: 2%;
+    width: 15%;
+    height: 40%;
+    margin-left: 3%;
     margin-right: 2%;
     border: solid #101011;
     display: block;
@@ -54,12 +54,12 @@ nav {
     font-size: 40px;
     text-align: center;
     margin: 8%;
-    border: 2px solid #0f1942;
+    border: 2px solid #3909e7;
     padding: 30px;
     border-radius: 40px 20px;
-    background-color: #1b1b1a;
+    background-color: #dada0f;
     font-family: 'Fredericka the Great', cursive;
-    color: #0f1942;
+    color: #2b2c2c;
   }
 
 h2{
@@ -85,15 +85,15 @@ nav li{
 
 nav a{
     text-decoration: none;
-    color: rgba(255, 0, 43, 0.712);
+    color: rgba(252, 250, 250, 0.712);
     font-size: 100%;
 }
 
 .home{
     margin-top: 10%;
     text-decoration: none;
-      background-color: white;
-      color: #32CD32;
+      background-color: rgb(7, 7, 7);
+      color: #ebf1eb;
       padding: 12px;
       display: inline-block;
       font-family: arial, sans-serif;
