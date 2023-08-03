@@ -3,8 +3,8 @@
 }
 
 body{
-    font-family: Verdana, Geneva, Tahoma, sans-serif; color: rgb(111, 10, 194);
- background-color: rgb(243, 117, 180); /
+    font-family: Verdana, Geneva, Tahoma, sans-serif; color: rgb(243, 239, 247);
+ background-color: rgb(12, 11, 12); /
 }
 
 header{
@@ -21,7 +21,7 @@ header{
     height: 50%;
     margin-left: 2%;
     margin-right: 2%;
-    border: solid #0000CD;
+    border: solid #101011;
     display: block;
 }
 
@@ -57,7 +57,7 @@ nav {
     border: 2px solid #0f1942;
     padding: 30px;
     border-radius: 40px 20px;
-    background-color: #FFFF00;
+    background-color: #1b1b1a;
     font-family: 'Fredericka the Great', cursive;
     color: #0f1942;
   }
