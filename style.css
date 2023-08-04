@@ -4,7 +4,7 @@
 
 body{
     font-family: Verdana, Geneva, Tahoma, sans-serif; color: rgb(243, 239, 247);
- background-color: rgb(12, 11, 12); /
+ background-color: #c20909e0; /
 }
 
 header{
@@ -36,7 +36,7 @@ h1{
     margin-left: 5%;
     border: solid; #0f1942;
     padding: 2%;
-    background-color: #FFE4E1;
+    background-color: #c20909e0;
    
 }
 
@@ -54,10 +54,10 @@ nav {
     font-size: 40px;
     text-align: center;
     margin: 8%;
-    border: 2px solid #3909e7;
+    border: 2px solid #f7f6fa;
     padding: 30px;
     border-radius: 40px 20px;
-    background-color: #dada0f;
+    background-color: #c20909e0;
     font-family: 'Fredericka the Great', cursive;
     color: #2b2c2c;
   }
@@ -85,7 +85,7 @@ nav li{
 
 nav a{
     text-decoration: none;
-    color: rgba(252, 250, 250, 0.712);
+    color: #c20909e0;
     font-size: 100%;
 }
 
@@ -93,7 +93,7 @@ nav a{
     margin-top: 10%;
     text-decoration: none;
       background-color: rgb(7, 7, 7);
-      color: #ebf1eb;
+      color: #f8faf8;
       padding: 12px;
       display: inline-block;
       font-family: arial, sans-serif;
