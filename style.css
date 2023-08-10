@@ -3,8 +3,8 @@
 }
 
 body{
-    font-family: Verdana, Geneva, Tahoma, sans-serif; color: rgb(243, 239, 247);
- background-color: rgb(12, 11, 12); /
+    font-family: Verdana, Geneva, Tahoma, sans-serif; color: rgb(136, 17, 255);
+ background-color: rgb(238, 52, 238); /
 }
 
 header{
@@ -21,7 +21,7 @@ header{
     height: 50%;
     margin-left: 2%;
     margin-right: 2%;
-    border: solid #101011;
+    border: solid #20ceb7;
     display: block;
 }
 
@@ -85,7 +85,7 @@ nav li{
 
 nav a{
     text-decoration: none;
-    color: rgb(0, 0, 0);
+    color: rgb(231, 9, 9);
     font-size: 100%;
 }
 
