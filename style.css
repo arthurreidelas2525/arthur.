@@ -10,7 +10,7 @@ body{
 }
 
 header{
-    background-color: #810a0a;
+    background-color: #000000;
     padding: 40px;
     display: flex;
     align-items: center;
@@ -38,7 +38,7 @@ h1{
     margin-left: 5%;
     border: solid; #0f1942;
     padding: 2%;
-    background-color: #000000;
+    background-color: #f3cf03c2;
    
 }
 
