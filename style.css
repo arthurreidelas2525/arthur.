@@ -4,7 +4,9 @@
 
 body{
     font-family: Verdana, Geneva, Tahoma, sans-serif; color: #f4f7f4;
- background-color: #0db31b; /
+    border: 2px solid #f3cf03c2;
+    border: 2px solid #f3cf03c2;
+    background-color: 
 }
 
 header{
@@ -36,7 +38,7 @@ h1{
     margin-left: 5%;
     border: solid; #0f1942;
     padding: 2%;
-    background-color: #05720e;
+    background-color: #000000;
    
 }
 
