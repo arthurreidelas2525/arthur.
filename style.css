@@ -23,7 +23,7 @@ header{
     height: 50%;
     margin-left: 2%;
     margin-right: 2%;
-    border: solid #fbfcfc;
+    border: solid #154d4d;
     display: block;
 }
 
@@ -59,9 +59,9 @@ nav {
     border: 2px solid #f3cf03c2;
     padding: 30px;
     border-radius: 40px 20px;
-    background-color: #e0e01505;
+    background-color: #49414105;
     font-family: 'Fredericka the Great', cursive;
-    color: #fbfcff;
+    color: #176136;
   }
 
 h2{
